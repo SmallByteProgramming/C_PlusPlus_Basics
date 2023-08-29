@@ -1,25 +1,25 @@
 ## Labs:
 
-### 1. Introduction to C++ programming language
+### 1. Hello World
 
-### 2. Basic syntax and data types
+### 2. Variables & Data Types
 
-### 3. Operators and expressions
+### 3. Operators
 
-### 4. Control statements
+### 4. Control Statements
 
 ### 5. Functions
 
-### 6. Arrays and strings
+### 6. Arrays
 
-### 7. Pointers and references
+### 7. Pointers
 
-### 8. Object-oriented programming concepts
+### 8. Strings
 
-### 9. Classes and objects
+### 9. Classes
 
-### 10. Inheritance and polymorphism
+### 10. Inheritance & Polymorphism
 
-### 11. Templates and exceptions
+### 11. Templates
 
-### 12. Standard Template Library (STL)
+### 12. Exceptions
