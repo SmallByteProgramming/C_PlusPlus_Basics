@@ -1,3 +1,10 @@
+## Getting Started:
+Welcome!
+
+Please check out [my YouTube channel](https://www.youtube.com/@SmallByteProgramming) for lecutes on each lab.
+
+To get started with these labs, please follow the instructions [here](https://www.youtube.com/@SmallByteProgramming).
+
 ## Labs:
 
 ### 1. Hello World
